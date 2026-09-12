@@ -442,9 +442,3 @@ docker logs docker-lab-my-client-1
 ```bash
 docker compose down
 ```
-
----
-
-## لینک مخزن
-
-[GitHub Repository](https://github.com/wildydrag/selab-exp5)
